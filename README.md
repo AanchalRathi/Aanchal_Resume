@@ -3,7 +3,7 @@
 📄 This repository contains my latest resume.
 
 ## 🔗 Direct Resume Link
-[Download Resume (PDF)]./[[Resume.pdf](https://drive.google.com/drive/u/0/folders/1dwfxrZqpaLZ2__n7EtCSSjTvYxZ4fKK6)](https://drive.google.com/file/d/1utPFUIqO8vOUIIg1eJRny0UaR3AusA7W/view?usp=sharing)
+[Download Resume (PDF)]./[[Resume.pdf](https://drive.google.com/file/d/1ZYbksXgRS-MIchqc-KGo2UmHOEcy37Ry/view?usp=sharing)](https://drive.google.com/file/d/1ZYbksXgRS-MIchqc-KGo2UmHOEcy37Ry/view?usp=sharing)
 
 ## 👩‍💻 About Me
 - Computer Science student
