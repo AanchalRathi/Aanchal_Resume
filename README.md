@@ -3,7 +3,7 @@
 📄 This repository contains my latest resume.
 
 ## 🔗 Direct Resume Link
-[Download Resume (PDF)]https://drive.google.com/file/d/1_FL_m-CpabDyuNpekdWfg2gcnPC38psY/view?usp=sharing
+[Download Resume (PDF)]https://drive.google.com/file/d/1zxy8fiHDOTisXRjy0CVq0yLKwrsKqk-g/view?usp=sharing
 ## 👩‍💻 About Me
 - Computer Science student
 - Strong in C++, Java, Python
